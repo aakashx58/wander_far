@@ -2,6 +2,8 @@
 
 A Next.js AI Studio applet powered by Google Gemini AI.
 
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/c04a7ef0-2a92-47a4-895b-96ac1ac366df" />
+
 ## Overview
 
 `ai-studio-applet` is a Next.js 15 application built with React 19 and TypeScript. It integrates with the [Google Gemini AI](https://ai.google.dev/) API (`@google/genai`) to provide AI capabilities and is designed to run as an applet within Google AI Studio.
