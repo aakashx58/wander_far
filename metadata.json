@@ -1,0 +1,6 @@
+{
+  "name": "Wander far. Rest easy.",
+  "description": "Find quiet fjords, cozy cabins, and the slow, wild mornings you came for, all here in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
