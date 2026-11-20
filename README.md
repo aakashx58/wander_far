@@ -1,6 +1,6 @@
-# ai-studio-applet
+# Wander far. Rest easy.
 
-A Next.js AI Studio applet powered by Google Gemini AI.
+Find quiet fjords, cozy cabins, and the slow, wild mornings you came for, all here in one place.
 
 <img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/c04a7ef0-2a92-47a4-895b-96ac1ac366df" />
 
